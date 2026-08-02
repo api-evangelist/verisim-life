@@ -1,9 +1,28 @@
 aid: verisim-life
 name: VeriSIM Life
-description: 'VeriSIM Life is a company surfaced as a portfolio company of amplify-partners and added
-  to the API Evangelist network as a stub for enrichment. Sector: digital-biology. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: 'VeriSIM Life is an AI-driven drug discovery and development company that
+  applies mechanistic artificial intelligence and quantitative simulation to reduce the
+  cost, time, and failure rate of translating drug candidates into clinical trials. Its
+  BIOiSIM platform is a biosimulation decision engine that can screen large libraries of
+  drug-like compounds and run simulation scenarios across species and dosing regimens,
+  while AtlasGEN designs novel molecules and evaluates them for safety and efficacy. The
+  company operates PulmoSIM Therapeutics as a subsidiary. VeriSIM Life exposes no public
+  developer API, SDK, or developer portal; the platform is accessed through partnerships
+  and demos. This profile is maintained in the API Evangelist network for discovery and
+  monitoring.'
 url: https://raw.githubusercontent.com/api-evangelist/verisim-life/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/62c5323a68523dcbfda4a25b/62c54148a9afd72e9409a242_Brand%20LOgo%20.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,10 +31,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Digital Biology
+- Drug Discovery
+- Artificial Intelligence
+- Life Sciences
+- Pharmaceutical
+- Biosimulation
+- Machine Learning
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +50,18 @@ maintainers:
 common:
 - type: Website
   url: https://verisimlife.com
+- type: Blog
+  url: https://verisimlife.com/archive/blog
+- type: PrivacyPolicy
+  url: https://verisimlife.com/privacy
+- type: Support
+  url: https://verisimlife.com/contact
+- type: GitHubOrganization
+  url: https://github.com/verisimlife
+- type: DomainSecurity
+  url: security/verisim-life-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1

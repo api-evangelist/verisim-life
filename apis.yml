@@ -11,6 +11,17 @@ description: 'VeriSIM Life is an AI-driven drug discovery and development compan
   and demos. This profile is maintained in the API Evangelist network for discovery and
   monitoring.'
 url: https://raw.githubusercontent.com/api-evangelist/verisim-life/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown

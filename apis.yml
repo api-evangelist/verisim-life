@@ -51,7 +51,7 @@ tags:
 - Life Sciences
 - Pharmaceuticals
 - Biosimulation
-- Machine-Learning
+- Machine Learning
 tags_raw:
 - Company
 - Digital Biology
@@ -61,6 +61,7 @@ tags_raw:
 - Pharmaceutical
 - Biosimulation
 - Machine Learning
+- Machine-Learning
 apis: []
 maintainers:
 - FN: Kin Lane
